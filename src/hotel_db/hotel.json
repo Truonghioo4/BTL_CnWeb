@@ -1,0 +1,321 @@
+{
+  "hotel": [
+    {
+      "id": "1",
+      "Name": "Sun Peninsula Resort",
+      "Address": "Ha Noi",
+      "Available_rooms": 5,
+      "Rates": 120,
+      "img_url": "https://i.pinimg.com/564x/d5/f2/2d/d5f22dd984b50e57b686085cc2cff677.jpg",
+      "Price": 5000
+    },
+    {
+      "id": "2",
+      "Name": "The Reverie Saigon",
+      "Address": "Da Nang",
+      "Available_rooms": 10,
+      "Rates": 95,
+      "img_url": "https://i.pinimg.com/564x/d6/02/8e/d6028eb225050ea6a7d44bc41d9dc8cc.jpg",
+      "Price": 5000
+    },
+    {
+      "id": "3",
+      "Name": "Sofitel Legend Metropole Hanoi",
+      "Address": "Hồ Chí Minh",
+      "Available_rooms": 3,
+      "Rates": 200,
+      "img_url": "https://i.pinimg.com/564x/d6/02/8e/d6028eb225050ea6a7d44bc41d9dc8cc.jpg",
+      "Price": 5000
+    },
+    {
+      "id": "4",
+      "Name": "Marriott Hotel Hanoi",
+      "Address": "Nha Trang",
+      "Available_rooms": 7,
+      "Rates": 75,
+      "img_url": "https://i.pinimg.com/564x/90/58/04/905804138393ba140111d8bedf4d52d8.jpg",
+      "Price": 5000
+    },
+    {
+      "id": "5",
+      "Name": "Park Hyatt Saigon",
+      "Address": "Bac Ninh",
+      "Available_rooms": 4,
+      "Rates": 150,
+      "img_url": "https://i.pinimg.com/564x/be/a5/4a/bea54aa100c4f834fb90837e12e45101.jpg",
+      "Price": 5000
+    },
+    {
+      "id": "6",
+      "Name": "Fusion Maia Da Lat",
+      "Address": "Da Lat",
+      "Available_rooms": 2,
+      "Rates": 50,
+      "img_url": "https://i.pinimg.com/736x/cd/17/14/cd1714fe9f7e6e29ede86bf8b406a197.jpg",
+      "Price": 5000
+    },
+    {
+      "id": "7",
+      "Name": "La Siesta Premium Hang Be",
+      "Address": "Phu Quoc",
+      "Available_rooms": 8,
+      "Rates": 180,
+      "img_url": "https://i.pinimg.com/736x/8a/88/02/8a88021fc7b4f6c8757c27c3774e1162.jpg",
+      "Price": 5000
+    },
+    {
+      "id": "8",
+      "Name": "Sheraton Nha Trang Hotel",
+      "Address": "Can Tho",
+      "Available_rooms": 6,
+      "Rates": 40,
+      "img_url": "https://i.pinimg.com/564x/7b/9a/5f/7b9a5fc8497d687a2e4ec1eda1f3cf84.jpg",
+      "Price": 5000
+    },
+    {
+      "id": "9",
+      "Name": "Grand Hotel Saigon",
+      "Address": "Thanh pho Ho Chi Minh, Viet Nam",
+      "Available_rooms": 9,
+      "Rates": 110,
+      "img_url": "https://i.pinimg.com/564x/6c/53/fa/6c53fa1dc417ce0de7bf37758f7a1181.jpg",
+      "Price": 5000
+    },
+    {
+      "id": "10",
+      "Name": "Mia Resort Hue",
+      "Address": "Hue",
+      "Available_rooms": 1,
+      "Rates": 30,
+      "img_url": "https://i.pinimg.com/736x/ec/09/19/ec09199edeabd5175406361756f80c27.jpg",
+      "Price": 5000
+    },
+    {
+      "id": "11",
+      "Name": "The Grand Ho Tram Strip",
+      "Address": "Ba Ria - Vung Tau, Viet Nam",
+      "Available_rooms": 5,
+      "Rates": 250,
+      "img_url": "https://i.pinimg.com/564x/fa/71/f5/fa71f508ed9b4b15fa7e67722795d119.jpg",
+      "Price": 700
+    },
+    {
+      "id": "12",
+      "Name": "Victoria Hoi An Beach Resort & Spa",
+      "Address": "Hoi An, Viet Nam",
+      "Available_rooms": 4,
+      "Rates": 250,
+      "img_url": "https://i.pinimg.com/564x/ee/ed/8b/eeed8b80307f36b01b21166d6402f906.jpg",
+      "Price": 700
+    },
+    {
+      "id": "13",
+      "Name": "Anantara Hoi An Resort",
+      "Address": "Hoi An, Viet Nam",
+      "Available_rooms": 6,
+      "Rates": 200,
+      "img_url": "https://i.pinimg.com/564x/35/40/66/3540664343021fa0da15a7771d4d055a.jpg",
+      "Price": 550
+    },
+    {
+      "id": "14",
+      "Name": "Vinpearl Resort Nha Trang",
+      "Address": "Nha Trang, Viet Nam",
+      "Available_rooms": 16,
+      "Rates": 200,
+      "img_url": "https://i.pinimg.com/564x/21/6d/58/216d588b7ddccd819a618fff53f84053.jpg",
+      "Price": 550
+    },
+    {
+      "id": "15",
+      "Name": "Lotte Hotel Hanoi",
+      "Address": "Ha Noi, Viet Nam",
+      "Available_rooms": 16,
+      "Rates": 200,
+      "Price": 550,
+      "img_url": "https://i.pinimg.com/564x/b5/52/7f/b5527fa534ee9fa0a4af815c0d895d00.jpg"
+    },
+    {
+      "id": "16",
+      "Name": "Emeralda Resort Ninh Binh",
+      "Address": "Ninh Binh, Viet Nam",
+      "Available_rooms": 3,
+      "Rates": 150,
+      "Price": 400,
+      "img_url": "https://i.pinimg.com/564x/f8/4c/72/f84c729b6ead3a6658b6463f24f75f52.jpg"
+    },
+    {
+      "id": "17",
+      "Name": "Alma Resort Cam Ranh",
+      "Address": "Khanh Hoa, Viet Nam",
+      "Available_rooms": 6,
+      "Rates": 300,
+      "Price": 800,
+      "img_url": "https://i.pinimg.com/564x/95/10/61/951061a4bfba1e8656788ed721fc075b.jpg"
+    },
+    {
+      "id": "18",
+      "Name": "Melia Hanoi",
+      "Address": "Ha Noi, Viet Nam",
+      "Available_rooms": 8,
+      "Rates": 180,
+      "Price": 500,
+      "img_url": "https://i.pinimg.com/564x/cb/8f/af/cb8faffabc748a7f6ff2ca068a02f4f7.jpg"
+    },
+    {
+      "id": "19",
+      "Name": "Sheraton Phu Quoc Resort",
+      "Address": "Phu Quoc, Viet Nam",
+      "Available_rooms": 5,
+      "Rates": 220,
+      "Price": 600,
+      "img_url": "https://i.pinimg.com/564x/34/60/ce/3460ced61e6c03cdfc18a8f090f3dfeb.jpg"
+    },
+    {
+      "id": "20",
+      "Name": "Pullman Saigon Centre",
+      "Address": "Thanh pho Ho Chi Minh, Viet Nam",
+      "Available_rooms": 9,
+      "Rates": 200,
+      "Price": 550,
+      "img_url": "https://i.pinimg.com/736x/e5/fc/c9/e5fcc9126d6d1adbe2efd837465c492b.jpg"
+    },
+    {
+      "id": "21",
+      "Name": "La Siesta Classic Ma May",
+      "Address": "Bac Ninh, Viet Nam",
+      "Available_rooms": 9,
+      "Rates": 200,
+      "Price": 550,
+      "img_url": "https://i.pinimg.com/564x/6b/e8/a9/6be8a9e5b01de439db190d08e2bdd51b.jpg"
+    },
+    {
+      "id": "22",
+      "Name": "Muong Thanh Luxury",
+      "Address": "Hai Phong, Viet Nam",
+      "Available_rooms": 9,
+      "Rates": 200,
+      "Price": 550,
+      "img_url": "https://i.pinimg.com/564x/6b/e8/a9/6be8a9e5b01de439db190d08e2bdd51b.jpg"
+    },
+    {
+      "id": "23",
+      "Name": "TMS Hotel Da Nang",
+      "Address": "Da Nang, Viet Nam",
+      "Available_rooms": 9,
+      "Rates": 200,
+      "Price": 550,
+      "img_url": "https://i.pinimg.com/564x/37/18/d8/3718d8e2667fee848fd26ae90694ef79.jpg"
+    },
+    {
+      "id": "24",
+      "Name": "Vincome Hotel",
+      "Address": "Ninh Binh, Viet Nam",
+      "Available_rooms": 9,
+      "Rates": 200,
+      "Price": 550,
+      "img_url": "https://i.pinimg.com/736x/7e/b2/6a/7eb26a303cab975540fb1a6d96c551ff.jpg"
+    },
+    {
+      "id": "25",
+      "Name": "Hadana Boutique",
+      "Address": "Hoi An, Viet Nam",
+      "Available_rooms": 9,
+      "Rates": 200,
+      "Price": 550,
+      "img_url": "https://i.pinimg.com/564x/8c/58/7d/8c587d84b0657f22939dfe19908777c6.jpg"
+    },
+    {
+      "id": "26",
+      "Name": "New Orient Hotel",
+      "Address": "Khánh Hòa, Viet Nam",
+      "Available_rooms": 9,
+      "Rates": 200,
+      "Price": 550,
+      "img_url": "https://i.pinimg.com/564x/91/73/8c/91738c3929f8965346f7fe3925b6aa96.jpg"
+    },
+    {
+      "id": "27",
+      "Name": "Boton Blue Hotel",
+      "Address": "Bac Giang, Viet Nam",
+      "Available_rooms": 9,
+      "Rates": 200,
+      "Price": 550,
+      "img_url": "https://i.pinimg.com/564x/a2/ec/ef/a2ecef2fdf45b6ca74de9edd18cf6f2b.jpg"
+    },
+    {
+      "id": "28",
+      "Name": "DLG Hotel Da Nang",
+      "Address": "Da Nang, Viet Nam",
+      "Available_rooms": 9,
+      "Rates": 200,
+      "Price": 550,
+      "img_url": "https://i.pinimg.com/564x/a2/1d/13/a21d13233f99064d48742334e1f2d057.jpg"
+    },
+    {
+      "id": "29",
+      "Name": "InterContinental Hanoi Landmark72",
+      "Address": "Ha Noi, Viet Nam",
+      "Available_rooms": 9,
+      "Rates": 200,
+      "Price": 550,
+      "img_url": "https://i.pinimg.com/564x/71/2a/bc/712abc3b96e217767580157328d4fcd5.jpg"
+    },
+    {
+      "id": "30",
+      "Name": "Park Hyatt Quy Nhon",
+      "Address": "Thanh pho Ho Chi Minh, Viet Nam",
+      "Available_rooms": 9,
+      "Rates": 300,
+      "Price": 550,
+      "img_url": "https://i.pinimg.com/564x/59/ee/ce/59eeced573aa4aa4661ebb7da139b6f7.jpg"
+    }
+  ],
+  "booking": [
+    {
+      "id": "15",
+      "Name": "Lotte Hotel Hanoi",
+      "Address": "Ha Noi, Viet Nam",
+      "Available_rooms": 16,
+      "Rates": 200,
+      "Price": 550,
+      "img_url": "https://i.pinimg.com/564x/b5/52/7f/b5527fa534ee9fa0a4af815c0d895d00.jpg"
+    },
+    {
+      "id": "1",
+      "Name": "Sun Peninsula Resort",
+      "Address": "Ha Noi",
+      "Available_rooms": 5,
+      "Rates": 120,
+      "img_url": "https://i.pinimg.com/564x/d5/f2/2d/d5f22dd984b50e57b686085cc2cff677.jpg",
+      "Price": 5000
+    },
+    {
+      "id": "9",
+      "Name": "Grand Hotel Saigon",
+      "Address": "Thanh pho Ho Chi Minh, Viet Nam",
+      "Available_rooms": 9,
+      "Rates": 110,
+      "img_url": "https://i.pinimg.com/564x/6c/53/fa/6c53fa1dc417ce0de7bf37758f7a1181.jpg",
+      "Price": 5000
+    },
+    {
+      "id": "11",
+      "Name": "The Grand Ho Tram Strip",
+      "Address": "Ba Ria - Vung Tau, Viet Nam",
+      "Available_rooms": 5,
+      "Rates": 250,
+      "img_url": "https://i.pinimg.com/564x/fa/71/f5/fa71f508ed9b4b15fa7e67722795d119.jpg",
+      "Price": 700
+    },
+    {
+      "id": "24",
+      "Name": "Vincome Hotel",
+      "Address": "Ninh Binh, Viet Nam",
+      "Available_rooms": 9,
+      "Rates": 200,
+      "Price": 550,
+      "img_url": "https://i.pinimg.com/736x/7e/b2/6a/7eb26a303cab975540fb1a6d96c551ff.jpg"
+    }
+  ]
+}

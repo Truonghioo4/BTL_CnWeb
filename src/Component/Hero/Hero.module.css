@@ -1,0 +1,47 @@
+.heroContainer {
+  background-image: url('https://i.pinimg.com/736x/75/18/d5/7518d594d781ebb5e38c45a734dc4065.jpg'); /* Thay đổi thành URL hình ảnh của bạn */
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+
+.heroContent {
+  background-color: rgba(0, 0, 0, 0.5); /* Nền tối để nội dung nổi bật hơn */
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.heroTitle {
+  font-size: 48px;
+  margin-bottom: 10px;
+  color: #ffc107;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.heroSubtitle {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.heroButton {
+  padding: 12px 24px;
+  font-size: 18px;
+  background-color: #ffc107;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.heroButton:hover {
+  background-color: #e0a800;
+  transform: scale(1.05);
+}
